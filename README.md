@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+``` ruby
+DevcampViewTool::Renderer.copyright 'Roselle Tabuena', 'All rights reserved'
+```
 
 ## Development
 
